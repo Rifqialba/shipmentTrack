@@ -129,4 +129,4 @@ npm run test
 
 ## Video Simulasi 
 Untuk video simulasi sudah saya letakan di gdirve, berikut linknya 
-[klik disini]([https://drive.google.com/](https://drive.google.com/file/d/1yfEnZkoJnlB4hrcjiAb6v5K7pFE06Rp_/view?usp=sharing))
+[klik disini untuk melihat simulasi aplikasi](https://drive.google.com/file/d/1yfEnZkoJnlB4hrcjiAb6v5K7pFE06Rp_/view?usp=sharing)
